@@ -218,11 +218,11 @@ code {
   background-color: #fafafa;
 }
 
-p.navbie {
+p #navbie {
 	text-align: center !important;	
 }
 
-.navbie a:hover {
+#navbie a:hover {
 	background-color: #FFFF00";
 	text-decoration: none;
 }
