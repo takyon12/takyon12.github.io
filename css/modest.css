@@ -217,3 +217,11 @@ pre,
 code {
   background-color: #fafafa;
 }
+
+.navbie {
+	text-align: center;	
+}
+
+.navbie a:hover {
+	background-color: #FFFF00";
+}
